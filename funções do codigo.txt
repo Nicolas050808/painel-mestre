@@ -1,0 +1,73 @@
+🧩 1. Gerenciamento e Segurança
+
+Gerenciador de Senhas — salva logins e senhas criptografadas.
+
+Lançador de Apps Protegido — executa programas .exe protegidos por senha.
+
+Limpador de Sistema (Básico) — limpa arquivos temporários, esvazia lixeira e dá dicas sobre cache.
+
+⚙️ 2. Ferramentas de Sistema e Automação
+
+Gerenciador de Processos — mostra e finaliza processos ativos (tipo um mini-Gerenciador de Tarefas).
+
+Monitor de Temperaturas — lê sensores do PC (CPU, GPU etc.).
+
+Organizador Automático de Arquivos — move arquivos automaticamente pra pastas como Imagens, Documentos, Vídeos...
+
+Limpador de Arquivos Duplicados — detecta e remove duplicatas por hash.
+
+Monitor de Tempo de Uso — rastreia tempo de PC ligado e uso por janela/programa.
+
+Cheat/Autoclicker com Hotkey F6 — ativa/desativa autoclicker no mouse com uma tecla.
+
+🌐 3. Rede e Internet
+
+Teste de Velocidade (Speedtest) — mede ping, download e upload.
+
+Consulta de IP (Local ou Público) — mostra país, cidade, provedor etc.
+
+Verificador de Status de Website — checa se sites estão online/offline.
+
+Ferramentas de Link:
+
+Encurtador de URLs (TinyURL)
+
+Gerador de QR Codes (mostrar no terminal ou salvar como imagem)
+
+Criador de Link de WhatsApp com mensagem automática
+
+💼 4. Produtividade e Pessoal
+
+Diário Pessoal Criptografado — anotações protegidas com senha.
+
+Rastreador de Hábitos — adiciona hábitos, marca progresso e mostra estatísticas dos últimos 7 dias.
+
+Gerenciador de Clipboard (Área de Transferência) — salva histórico do que você copia e permite copiar de volta.
+
+💰 5. Módulo de Economia
+
+Pesquisa de Preços (Google Shopping) — busca preços e lojas de produtos.
+
+Organizador de Orçamento — lista itens, prioridades e indica se está dentro do orçamento.
+
+Rastreador de Metas de Economia — define metas, registra economias e exibe progresso com barra de porcentagem.
+
+📚 6. Módulo de Estudos
+
+Organizador de Tarefas Escolares — adiciona, conclui e remove tarefas.
+
+Gerenciador de Notas por Matéria — adiciona notas, calcula médias e colore o desempenho (verde, amarelo, vermelho).
+
+💻 7. Modo Hacker (Estético)
+
+Simula um terminal de “hack” animado com linhas de código rolando. É só pra diversão, sem acesso real a nada.
+
+🔐 8. Sistema Interno
+
+Criptografia com senha mestra (Fernet + PBKDF2)
+
+Controle de Threads Seguros (para rastreamento, clipboard, autoclicker)
+
+Proteção de arquivos sensíveis (diário, senhas, economia e estudos são criptografados)
+
+Login com validação da senha mestra antes de liberar acess
